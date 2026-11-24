@@ -1,0 +1,10 @@
+{
+  "name": "Easy Photo Editor",
+  "description": "Mobile photo editor and layer studio with precision cropping, custom canvas dimensions, filters, background removal, camera capture, and text styling.",
+  "requestFramePermissions": [
+    "CAMERA"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

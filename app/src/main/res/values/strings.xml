@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Easy Photo Editor</string>
+    <string name="privacy_policy_acknowledge">Acknowledge &amp; Close</string>
+    <string name="privacy_policy_camera_title">1. Camera Permission &amp; Capture</string>
+    <string name="privacy_policy_compliance_subtitle">Easy Photo Editor • Play Store Compliance</string>
+    <string name="privacy_policy_contact_title">5. Developer Contact &amp; User Rights</string>
+    <string name="privacy_policy_no_tracking_title">4. Zero Third-Party Tracking &amp; Advertising</string>
+    <string name="privacy_policy_on_device_title">3. 100% On-Device Processing Guarantee</string>
+    <string name="privacy_policy_storage_title">2. Photos &amp; Media Storage Access</string>
+    <string name="privacy_policy_title">Privacy Policy</string>
+</resources>
